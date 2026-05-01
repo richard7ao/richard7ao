@@ -12,7 +12,7 @@ Founding engineer at a 15-person startup, owning distributed backend systems end
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/richard7ao)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/richard1ao)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://richard7ao-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:richard@seractech.co.uk)
 
@@ -117,7 +117,7 @@ Founding engineer at a 15-person startup, owning distributed backend systems end
 
 ## 🤝 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/richard7ao)
+- 💼 [LinkedIn](https://linkedin.com/in/richard1ao)
 - 🌐 [Portfolio](https://richard7ao-portfolio.vercel.app)
 - 📧 [richard@seractech.co.uk](mailto:richard@seractech.co.uk)
 
