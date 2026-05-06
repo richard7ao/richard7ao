@@ -73,27 +73,27 @@ Founding engineer at a 15-person startup, owning distributed backend systems end
 - **Serac Group** — Founding Software Engineer (Jan 2025 – Present). Event-driven AWS pipelines sustaining 14M-record peak bursts at 99.9% SLA. LLM classification over ~1B fields at ~90% accuracy. AI agents cutting scraper-failure triage from 1 week to 1 day. Reduced AWS spend ~28%.
 - **[emulsion](https://github.com/richard7ao/emulsion)** — Full-stack portfolio platform: Rust/Axum API, SwiftUI iOS app, SQLite WAL, FTS5 search, DashMap caching, UniFFI shared types.
 - **[e-commerce](https://github.com/richard7ao/e-commerce)** — Full-stack e-commerce platform: Next.js, Payload CMS, Stripe integration.
+- **[meridian-core-banking](https://github.com/richard7ao/meridian-core-banking)** — Core banking system prototype.
 
 ### 🔬 Tier 2: Research & Side Projects
 
-- **[PharmaBridge](https://github.com/richard7ao/national-med-tech-foundation-hackathon)** — 🥈 2nd Place, Imperial College x National MedTech Foundation Hackathon (Apr 2026). Full-stack B2B pharmacy exchange (Next.js, Node.js, PostgreSQL). Team Captain & Lead Engineer.
-- **[gym-cooking](https://github.com/richard7ao/gym-cooking)** — Multi-agent reinforcement learning in resource-scarce cooking environments. Final-year dissertation at King's College London. Python, PyTorch, OpenAI Gym.
-- **AI Triage Nurse** — AI-powered emergency triage agent for simulated A&E. Streamlit UI, OpenReward environment, reinforcement learning.
+- **[triage-lab](https://github.com/richard7ao/triage-lab)** — AI-powered emergency department triage simulation. Structured clinical intake, batch evaluation harness, and transparent agent reasoning over MIMIC-IV-ED datasets. Next.js 16, Python, OpenReward.
+- **[PharmaBridge](https://github.com/richard7ao/pharmabridge)** — 🥈 2nd Place, Imperial College x National MedTech Foundation Hackathon (Apr 2026). Full-stack B2B pharmacy exchange for surplus medicine redistribution. Next.js, Node.js. Team Captain & Lead Engineer.
+- **[KCL_gym_cooking](https://github.com/richard7ao/KCL_gym_cooking)** — Multi-agent reinforcement learning in resource-scarce cooking environments. Final-year dissertation at King's College London. Python, PyTorch, OpenAI Gym.
 - **[golf-seg](https://github.com/richard7ao/golf-seg)** — Personal finance tracker with budget management, transaction logging, and gamification. Django.
 
 ### 🎓 Tier 3: CS Fundamentals & Academic
 
-- **Compiler Pipeline** ([lexer-parser](https://github.com/richard7ao/cfl-lexer-parser) → [JVM backend](https://github.com/richard7ao/cfl-compiler) → [LLVM backend](https://github.com/richard7ao/cfl-llvm)) — Full compiler for the While/Fun languages: lexer, recursive descent parser, JVM bytecode via Jasmin, LLVM IR backend. Scala.
-- **[scala-functional](https://github.com/richard7ao/scala-functional)** — Functional programming: regex engine, Wordle solver, Knights Tour, Brainfuck interpreter. Scala.
-- **[cpp-data-structures](https://github.com/richard7ao/cpp-data-structures)** — Data structures and algorithms: linked lists, tree maps, Sudoku solvers, search strategies. C++.
+- **Compiler Pipeline** ([lexer-parser](https://github.com/richard7ao/KCL_cfl_lexer_parser) → [JVM backend](https://github.com/richard7ao/KCL_cfl_compiler) → [LLVM backend](https://github.com/richard7ao/KCL_cfl_llvm)) — Full compiler for the While/Fun languages: lexer, recursive descent parser, JVM bytecode via Jasmin, LLVM IR backend. Scala.
+- **[KCL_scala_functional](https://github.com/richard7ao/KCL_scala_functional)** — Functional programming: regex engine, Wordle solver, Knights Tour, Brainfuck interpreter. Scala.
+- **[KCL_cpp_data_structures](https://github.com/richard7ao/KCL_cpp_data_structures)** — Data structures and algorithms: linked lists, tree maps, Sudoku solvers, search strategies. C++.
 
 ### ⚡ Tier 4: Hackathon Projects
 
-- **[cursor-hackathon-2026-04-30](https://github.com/richard7ao/cursor-hackathon-2026-04-30)** — Cursor AI hackathon (TypeScript)
-- **[vercel-hackathon-2026-05-01](https://github.com/richard7ao/vercel-hackathon-2026-05-01)** — Vercel platform hackathon
-- **[cursor-x-briefcase-hackathon](https://github.com/richard7ao/cursor-x-briefcase-hackathon)** — Cursor × Briefcase collaborative hackathon
-- **[hackathon-tools](https://github.com/richard7ao/hackathon-tools)** — Reusable tooling and utilities for rapid hackathon development
-- **[Hackathon-Practice](https://github.com/richard7ao/Hackathon-Practice)** — Rapid prototyping playground
+- **[bridge](https://github.com/richard7ao/bridge)** — Multi-agent deploy security war room built on Vercel WDK. Real-time threat detection and rehearsal system. Next.js, TypeScript.
+- **[MiFIR_Rejection_Remediation_Engine](https://github.com/richard7ao/MiFIR_Rejection_Remediation_Engine)** — AI agent pipeline for MiFIR trade rejection remediation. Automated regulatory compliance analysis. TypeScript, Python.
+- **[Hackathon_Tools](https://github.com/richard7ao/Hackathon_Tools)** — Reusable tooling, specs, and skills for rapid hackathon development.
+- **[Hackathon_Practice](https://github.com/richard7ao/Hackathon_Practice)** — Rapid prototyping playground.
 
 ---
 
@@ -110,6 +110,7 @@ Founding engineer at a 15-person startup, owning distributed backend systems end
 
 ## 🔭 Currently Building
 
+- **Triage Lab** — Expanding the AI triage simulation with semantic retrieval, improved scoring, and agent benchmarking
 - **Emulsion** — Expanding the portfolio platform with conversations, inbox system, and cross-platform shared types via UniFFI
 - **Serac** — Scaling event-driven pipelines and LLM classification infrastructure
 
