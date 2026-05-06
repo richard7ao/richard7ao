@@ -99,9 +99,10 @@ Founding engineer at a 15-person startup, owning distributed backend systems end
 
 ## 🔭 Currently Building
 
-- **Triage Lab** — Expanding the AI triage simulation with semantic retrieval, improved scoring, and agent benchmarking
-- **Emulsion** — Expanding the portfolio platform with conversations, inbox system, and cross-platform shared types via UniFFI
 - **Serac** — Scaling event-driven pipelines and LLM classification infrastructure
+- **Planda Portal** — Customer-facing portal for the Planda platform
+- **Planda Admin** — Internal admin dashboard and operational tooling
+- **Hackathons** — Competing in every hackathon I can get my hands on
 
 ---
 
