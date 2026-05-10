@@ -32,6 +32,14 @@ The autonomous AI process engineer for advanced semiconductor packaging. Detects
 
 [**Repo →**](https://github.com/richard7ao/Hackathon_Real_World_Hack)
 
+### 🥈 PharmaBridge — 2nd Place, Imperial College × National MedTech Foundation
+
+*Apr 2026 · Team Captain & Lead Engineer*
+
+Full-stack B2B pharmacy exchange for surplus medicine redistribution. Real-time inventory matching across pharmacies with a regulated transfer workflow. Next.js, Node.js.
+
+[**Repo →**](https://github.com/richard7ao/pharmabridge)
+
 ---
 
 ## 🛠 Tech Stack
@@ -102,7 +110,6 @@ The autonomous AI process engineer for advanced semiconductor packaging. Detects
 ### ⚡ Tier 4: Hackathon Projects
 
 - **[triage-lab](https://github.com/richard7ao/triage-lab)** — AI-powered emergency department triage simulation. Structured clinical intake, batch evaluation harness, and transparent agent reasoning over MIMIC-IV-ED datasets. Next.js 16, Python, OpenReward.
-- **[PharmaBridge](https://github.com/richard7ao/pharmabridge)** — 🥈 2nd Place, Imperial College x National MedTech Foundation Hackathon (Apr 2026). Full-stack B2B pharmacy exchange for surplus medicine redistribution. Next.js, Node.js. Team Captain & Lead Engineer.
 - **[bridge](https://github.com/richard7ao/bridge)** — Multi-agent deploy security war room built on Vercel WDK. Real-time threat detection and rehearsal system. Next.js, TypeScript.
 - **[MiFIR_Rejection_Remediation_Engine](https://github.com/richard7ao/MiFIR_Rejection_Remediation_Engine)** — AI agent pipeline for MiFIR trade rejection remediation. Automated regulatory compliance analysis. TypeScript, Python.
 - **[meridian-core-banking](https://github.com/richard7ao/meridian-core-banking)** — Core banking system prototype.
