@@ -20,6 +20,20 @@ Founding engineer at a 15-person startup, owning distributed backend systems end
 
 ---
 
+## 🏆 Hackathon Wins
+
+### 🥇 CoWoS — 1st Place, AI for the Real World Hack
+
+*Operators & Friends · NEA · Transition · May 2026*
+
+The autonomous AI process engineer for advanced semiconductor packaging. Detects defects on the line, diagnoses why the factory created them, and prescribes the corrective process change — closing a multi-week, multi-million-dollar root-cause loop in minutes.
+
+`React` · `Vite` · `FastAPI` · `PyTorch` · `Gemini` · `Encord` · `OpenAI`
+
+[**Repo →**](https://github.com/richard7ao/Hackathon_Real_World_Hack)
+
+---
+
 ## 🛠 Tech Stack
 
 **Languages**
