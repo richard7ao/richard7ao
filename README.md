@@ -22,7 +22,7 @@ Founding engineer at a 15-person startup, owning distributed backend systems end
 
 ## 🏆 Hackathon Wins
 
-### 🥇 CoWoS — 1st Place, AI for the Real World Hack
+###  CoWoS , AI for the Real World Hack
 
 *Operators & Friends · NEA · Transition · May 2026*
 
@@ -32,7 +32,7 @@ The autonomous AI process engineer for advanced semiconductor packaging. Detects
 
 [**Repo →**](https://github.com/richard7ao/Hackathon_Real_World_Hack)
 
-### 🥈 PharmaBridge — 2nd Place, Imperial College × National MedTech Foundation
+###  PharmaBridge, Imperial College × National MedTech Foundation
 
 *Apr 2026 · Team Captain & Lead Engineer*
 
